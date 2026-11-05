@@ -14,8 +14,3 @@
 - ⚡ **[QuickWork](https://github.com/a99icted/quickwork)** — агрегатор быстрых смен и подработок
 - 🤖 **[MultiCommentBot](https://github.com/a99icted/MultiCommentBot)** — автоматизация и работа с комментариями на Python
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a99icted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a99icted&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
